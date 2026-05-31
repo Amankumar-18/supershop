@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://supershop1.vercel.app/api";
+const API_BASE_URL = "https://supershop-2-jwcq.onrender.com/api";
 
 
 async function request(path, options = {}) {
